@@ -1,0 +1,20 @@
+.footer {
+    background: #f6f6eb;
+    color: #1d1d1d;
+    padding: 20px 0;
+    text-align: center;
+    border-top: 1px solid #1d1d1d;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav a {
+    color: #1d1d1d;
+    text-decoration: none;
+    font-size: 1rem;
+}
